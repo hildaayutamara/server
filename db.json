@@ -1,481 +1,64 @@
 {
-  "data": [
+  "data_saham": [
     {
-      "id": "200407001",
-      "nama": "Agung Pradana",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "1",
+      "nama": "PT. Bank Central Asia Tbk. (BBCA)",
+      "harga_per_lot": 32600,
+      "img": "sdada"
     },
     {
-      "id": "200407002",
-      "nama": "Anggi Wardhani Dalimunthe",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "2",
+      "nama": "PT. Bank Rakyat Indonesia (Persero) Tbk. (BBRI)",
+      "harga_per_lot": 3720,
+      "img": "sdada"
     },
     {
-      "id": "200407003",
-      "nama": "Cici Humaira Andini",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "3",
+      "nama": "Unilever Indonesia – UNVR",
+      "harga_per_lot": 3820,
+      "img": "sdada"
     },
-
     {
-      "id": "200407004",
-      "nama": "Dally Raj Singh",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "4",
+      "nama": "Telekomunikasi Indonesia – TLKM",
+      "harga_per_lot": 3530,
+      "img": "sdada"
     },
-
     {
-      "id": "200407005",
-      "nama": "Debora Anastasya Tamba",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "5",
+      "nama": "PT Indofood CBP Sukses Makmur Tbk – ICBP",
+      "harga_per_lot": 8225,
+      "img": "sdada"
     },
-
     {
-      "id": "200407006",
-      "nama": "Enda Lamora Azizi",
-      "keterangan": "Mohon maaf kamu BELUM LULUS, jangan patah semangat karena ini bukan akhir, kita bisa ketemu di lain waktu"
+      "id": "6",
+      "nama": "Bank Mandiri (persero) Tbk – BMRI",
+      "harga_per_lot": 5950,
+      "img": "sdada"
     },
-
     {
-      "id": "200407008",
-      "nama": "Febrina Damayanti Ritonga",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "7",
+      "nama": "PT Perusahaan Gas Negara Tbk (PGN) – PGAS",
+      "harga_per_lot": 1160,
+      "img": "sdada"
     },
-
     {
-      "id": "200407009",
-      "nama": "Kristina Wasti Br. Saragih",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "8",
+      "nama": "PT. Astra International Tbk – ASII",
+      "harga_per_lot": 5075,
+      "img": "sdada"
     },
-
     {
-      "id": "200407010",
-      "nama": "Muhammad Gymnasti Al-Amien",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "9",
+      "nama": "PT Bank Negara Indonesia (Persero) Tbk. – BBNI",
+      "harga_per_lot": 5050,
+      "img": "sdada"
     },
-
     {
-      "id": "200407011",
-      "nama": "Putri Rahma Febriani",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407012",
-      "nama": "Rani Lauren Martalenta Purba",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407013",
-      "nama": "Romian Malau",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407014",
-      "nama": "Sultan Alfanno Manurung",
-      "keterangan": "Mohon maaf kamu BELUM LULUS, jangan patah semangat karena ini bukan akhir, kita bisa ketemu di lain waktu"
-    },
-
-    {
-      "id": "200407015",
-      "nama": "Syafwan Ananda",
-      "keterangan": "Mohon maaf kamu BELUM LULUS, jangan patah semangat karena ini bukan akhir, kita bisa ketemu di lain waktu"
-    },
-
-    {
-      "id": "200407016",
-      "nama": "Syukri Hadi N.S",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407017",
-      "nama": "Tri Hardiana",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407018",
-      "nama": "Yemima Jediza Br. Pandia",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407019",
-      "nama": "Yolanda Tambun",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407020",
-      "nama": "Dwina Shyva Aliya",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407021",
-      "nama": "Rahma Putri Utami",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407022",
-      "nama": "Aura Mayhani Asmara",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407023",
-      "nama": "Johannes William David Sihotang",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407024",
-      "nama": "Adelina Khairani",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407025",
-      "nama": "Agnes Yovita Zega",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407026",
-      "nama": "Alexcius Sodugaon Simamora",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407027",
-      "nama": "Amando Manalu",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407028",
-      "nama": "Anastacia Febriyanti Sibarani",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407029",
-      "nama": "Andi Pranata Surbakti",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407030",
-      "nama": "Angely F. Panjaitan",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407031",
-      "nama": "Arvin",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407032",
-      "nama": "Brooklyn Valentino Siahaan",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407033",
-      "nama": "Duma Purnama Gradety Boru Sihite",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407034",
-      "nama": "Hafizhotun Nimah Anawati",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407035",
-      "nama": "Lita Ruth Purba",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407036",
-      "nama": "Martohap Sianturi",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407037",
-      "nama": "Muhammad Adli",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407038",
-      "nama": "Putri Veronika Sihotang",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407039",
-      "nama": "Reysandro Nathanael",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407040",
-      "nama": "Ribka Amelia Manalu",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407041",
-      "nama": "Sabine Meivianda Simangunsong",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407042",
-      "nama": "Sonia Samantha Samosir",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407043",
-      "nama": "Wan Hafizh",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407044",
-      "nama": "William Yonathan Hutapea",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407045",
-      "nama": "Willyater Syrus Hutagalung",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407046",
-      "nama": "Yossi Monalisa Hutabarat",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407047",
-      "nama": "Agree Manganju Evannels Silalahi",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407049",
-      "nama": "Maicel Ria Debora Sinaga",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407050",
-      "nama": "Aditya Reynandri",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407051",
-      "nama": "Nadya Angela Br Marpaung",
-      "keterangan": "Mohon maaf kamu BELUM LULUS, jangan patah semangat karena ini bukan akhir, kita bisa ketemu di lain waktu"
-    },
-
-    {
-      "id": "200407052",
-      "nama": "Cindira Barus",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407053",
-      "nama": "Al Kautsar",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407054",
-      "nama": "Batara Timothy MP Simamora",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407055",
-      "nama": "Luna Itasari Br Sitepu",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407056",
-      "nama": "Yana Marcella Sikelta Purba",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407058",
-      "nama": "Satria Justitia Simanjuntak",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407060",
-      "nama": "Muhammad Fauzan Keruas",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407061",
-      "nama": "Ariani Azra Absi",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407062",
-      "nama": "Gabriella Syalomitha Saurlina Situmorang",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407063",
-      "nama": "Efina Tri Chairunisa Nasution",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407064",
-      "nama": "Argana Lawrensius Sidebang",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407065",
-      "nama": "Kevin Heickel Kenza Ginting",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407066",
-      "nama": "Yunike Agitha Ginting",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407067",
-      "nama": "Joel Karo Karo",
-      "keterangan": "Mohon maaf kamu BELUM LULUS, jangan patah semangat karena ini bukan akhir, kita bisa ketemu di lain waktu"
-    },
-
-    {
-      "id": "200407068",
-      "nama": "Brilliana Triwulandari",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407069",
-      "nama": "Raihan Dwi Zalva",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407070",
-      "nama": "M Fikri Rafa Alakbar",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407071",
-      "nama": "Richard David Wiranata Saragih",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407072",
-      "nama": "Alkayana Br Pandia",
-      "keterangan": "Mohon maaf kamu BELUM LULUS, jangan patah semangat karena ini bukan akhir, kita bisa ketemu di lain waktu"
-    },
-
-    {
-      "id": "200407073",
-      "nama": "Cinty Rani Simarmata",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407074",
-      "nama": "Lulu Syifa Kamilah Siregar",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407075",
-      "nama": "Herfian Fajar Maarij",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407076",
-      "nama": "Novindah Christina Zai",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407077",
-      "nama": "Alicia Holong Riani Sihombing",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407079",
-      "nama": "Efata Elisabet Sibuea",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407080",
-      "nama": "Fernando Natanael Barus",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407081",
-      "nama": "Lila Yuwalita",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407082",
-      "nama": "Glen Michael Junior Manik",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407083",
-      "nama": "Sari Marito S. Sipahutar",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407084",
-      "nama": "Agnes Sigar",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
-    },
-
-    {
-      "id": "200407085",
-      "nama": "Christine Maria Yolanda Lubis",
-      "keterangan": "Selamat kamu LULUS menjadi Anggota Muda HMTL FT USU"
+      "id": "10",
+      "nama": "United Tractors Tbk PT – UNTR",
+      "harga_per_lot": 24000,
+      "img": "sdada"
     }
   ]
 }
