@@ -4,61 +4,101 @@
       "id": "1",
       "nama": "PT. Bank Central Asia Tbk. (BBCA)",
       "harga_per_lot": 32600,
-      "img": "https://www.freepnglogos.com/uploads/logo-bca-png/bank-central-asia-logo-bank-central-asia-bca-format-cdr-png-gudril-1.png"
+      "img": "https://www.freepnglogos.com/uploads/logo-bca-png/bank-central-asia-logo-bank-central-asia-bca-format-cdr-png-gudril-1.png",
+      "per": 28.06,
+      "pbv": 4.33,
+      "roe": 15.44,
+      "dy": 1.61
     },
     {
       "id": "2",
       "nama": "PT. Bank Rakyat Indonesia (Persero) Tbk. (BBRI)",
       "harga_per_lot": 3720,
-      "img": "https://1.bp.blogspot.com/-ZbCxOlRUsKE/XqfGl8pCu8I/AAAAAAAAOUo/G2sg_5PFjGwKZGj75qhZOGKOPHXgOLcKACLcBGAsYHQ/s640/Bank%2BBRI%2B%2528Bank%2BRakyat%2BIndonesia%2529%2BLogo%2B-%2BFree%2BVector%2BDownload%2BPNG.webp"
+      "img": "https://1.bp.blogspot.com/-ZbCxOlRUsKE/XqfGl8pCu8I/AAAAAAAAOUo/G2sg_5PFjGwKZGj75qhZOGKOPHXgOLcKACLcBGAsYHQ/s640/Bank%2BBRI%2B%2528Bank%2BRakyat%2BIndonesia%2529%2BLogo%2B-%2BFree%2BVector%2BDownload%2BPNG.webp",
+      "per": 18.54,
+      "pbv": 2.35,
+      "roe": 12.66,
+      "dy": 2.64
     },
     {
       "id": "3",
-      "nama": "Unilever Indonesia – UNVR",
+      "nama": "Unilever Indonesia  UNVR",
       "harga_per_lot": 3820,
-      "img": "http://assets.stickpng.com/images/5856a7bb4f6ae202fedf276b.png"
+      "img": "http://assets.stickpng.com/images/5856a7bb4f6ae202fedf276b.png",
+      "per": 23.92,
+      "pbv": 36.31,
+      "roe": 151.78,
+      "dy": 4.84
     },
     {
       "id": "4",
-      "nama": "Telekomunikasi Indonesia – TLKM",
+      "nama": "Telekomunikasi Indonesia TLKM",
       "harga_per_lot": 3530,
-      "img": "sdada"
+      "img": "sdada",
+      "per": 14,
+      "pbv": 3.54,
+      "roe": 25.3,
+      "dy": 4.77
     },
     {
       "id": "5",
       "nama": "PT Indofood CBP Sukses Makmur Tbk – ICBP",
       "harga_per_lot": 8225,
-      "img": "sdada"
+      "img": "sdada",
+      "per": 15.11,
+      "pbv": 2.97,
+      "roe": 19.62,
+      "dy": 2.57
     },
     {
       "id": "6",
       "nama": "Bank Mandiri (persero) Tbk – BMRI",
       "harga_per_lot": 5950,
-      "img": "sdada"
+      "img": "sdada",
+      "per": 11.01,
+      "pbv": 1.46,
+      "roe": 13.22,
+      "dy": 3.73
     },
     {
       "id": "7",
       "nama": "PT Perusahaan Gas Negara Tbk (PGN) – PGAS",
       "harga_per_lot": 1160,
-      "img": "sdada"
+      "img": "sdada",
+      "per": 7.87,
+      "pbv": 0.85,
+      "roe": 10.76,
+      "dy": 3.57
     },
     {
       "id": "8",
       "nama": "PT. Astra International Tbk – ASII",
       "harga_per_lot": 5075,
-      "img": "sdada"
+      "img": "sdada",
+      "per": 11.86,
+      "pbv": 1.29,
+      "roe": 10.88,
+      "dy": 2.2
     },
     {
       "id": "9",
       "nama": "PT Bank Negara Indonesia (Persero) Tbk. – BBNI",
       "harga_per_lot": 5050,
-      "img": "sdada"
+      "img": "sdada",
+      "per": 9.37,
+      "pbv": 0.81,
+      "roe": 8.64,
+      "dy": 0.87
     },
     {
       "id": "10",
       "nama": "United Tractors Tbk PT – UNTR",
       "harga_per_lot": 24000,
-      "img": "asda"
+      "img": "asda",
+      "per": 9.54,
+      "pbv": 1.32,
+      "roe": 13.98,
+      "dy": 2.82
     }
   ]
 }
