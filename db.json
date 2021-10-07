@@ -103,74 +103,120 @@
   ],
   "data_bobot": [
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "1",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "2",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "3",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "4",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "5",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "6",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
       "id": "7",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "9",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "10",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
     },
     {
-      "id": "",
-      "bobotPer": "",
-      "bobotPbv": "",
-      "bobotRoe": "",
-      "bobotDy": ""
+      "id": "2",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
+    }
+  ],
+  "Hasil": [
+    {
+      "id": "1",
+      "hasil": 0
+    },
+    {
+      "id": "2",
+      "hasil": 0
+    },
+    {
+      "id": "3",
+      "hasil": 0
+    },
+    {
+      "id": "4",
+      "hasil": 0
+    },
+    {
+      "id": "5",
+      "hasil": 0
+    },
+    {
+      "id": "6",
+      "hasil": 0
+    },
+    {
+      "id": "7",
+      "hasil": 0
+    },
+    {
+      "id": "8",
+      "hasil": 0
+    },
+    {
+      "id": "9",
+      "hasil": 0
+    },
+    {
+      "id": "10",
+      "hasil": 0
+    },
+    {
+      "id": "10",
+      "hasil": 0
     }
   ]
 }
