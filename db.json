@@ -152,6 +152,13 @@
       "bobotDy": 0
     },
     {
+      "id": "8",
+      "bobotPer": 0,
+      "bobotPbv": 0,
+      "bobotRoe": 0,
+      "bobotDy": 0
+    },
+    {
       "id": "9",
       "bobotPer": 0,
       "bobotPbv": 0,
@@ -160,13 +167,6 @@
     },
     {
       "id": "10",
-      "bobotPer": 0,
-      "bobotPbv": 0,
-      "bobotRoe": 0,
-      "bobotDy": 0
-    },
-    {
-      "id": "2",
       "bobotPer": 0,
       "bobotPbv": 0,
       "bobotRoe": 0,
