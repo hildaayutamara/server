@@ -2,77 +2,81 @@
   "data_kompetensi": [
     {
       "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033",
+      "nama": "Hilda Ayu Tamara",
+      "nip": "123456",
       "kompetensi": "Diklat Keuangan",
-      "tanggal": "2022-05-17",
+      "tgl_mulai": "2022-05-17",
+      "tgl_selesai": "2022-05-24",
       "jp": "2",
-      "penyelenggara": "Kemenkeu"
-    },
-    {
-      "id": "ab30b632-e41d-445a-8cf0-002fff523e92",
-      "kompetensi": "Diklat Kepegawaian",
-      "tanggal": "2022-05-16",
-      "jp": "3",
-      "penyelenggara": "bkn"
-    }
-  ],
-  "data_pengajuan": [
-    {
-      "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033",
-      "jenis": "Diklat Keuangan",
+      "sebagai": "peserta",
       "penyelenggara": "Kemenkeu",
-      "tujuan": "Menambah angka kredit",
-      "tanggal": "2022-05-16"
+      "narasumber": "Ibu...",
+      "tempat": "Medan",
+      "serifikat": ""
     },
     {
-      "id": "76b9249d-65c2-4c4b-914e-2c6c4d12b32b",
-      "jenis": "Diklat Pim",
-      "penyelenggara": "bkn",
-      "tujuan": "Memenuhi JP tahunan pegawai",
-      "tanggal": "2022-05-15"
-    },
-    {
-      "id": "9aa36cd5-48e1-451f-9c8a-c6d00ed0c66d",
-      "jenis": "Diklat Kepegawaian",
-      "penyelenggara": "bkn",
-      "tujuan": "Memenuhi JP tahunan pegawai",
-      "tanggal": "2022-05-28"
-    },
-    {
-      "id": "e3005778-6746-4176-bf03-b5a197715f60",
-      "jenis": "",
-      "penyelenggara": "bkn",
-      "tujuan": "Memenuhi JP tahunan pegawai",
-      "tanggal": "2022-05-17"
-    },
-    {
-      "id": "2f3d70a1-f69f-44c6-a564-1ed07a4d80ca",
-      "jenis": "Diklat Keuangan",
-      "penyelenggara": "BPSDM",
-      "tujuan": "Memenuhi JP tahunan pegawai",
-      "tanggal": "2022-05-16"
+      "id": "94276d70-d3fa-4012-9ee5-46fe1322aa47",
+      "nama": "Renanda",
+      "nip": "199912222022032003",
+      "kompetensi": "Seminar Keuangan",
+      "tgl_mulai": "2022-05-28",
+      "tgl_selesai": "2022-05-28",
+      "jp": "2",
+      "sebagai": "Peserta",
+      "penyelenggara": "Kemenkeu",
+      "narasumber": "Ibu Sri",
+      "tempat": "Zoom",
+      "sertifikat": "C:\\fakepath\\Pay Slip April.pdf"
     }
   ],
   "data_sertifikat": [
     {
       "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033",
-      "nomor": "12/Keuangan/2021",
-      "nama": "Sertifikat Keuangan",
-      "update": "2022-05-16",
-      "lihat": ""
+      "nama": "Diklat Kepegawaian",
+      "penyelenggara": "BKN",
+      "jp": "6",
+      "narasumber": "Ibu...",
+      "tempat": "Medan",
+      "tgl_mulai": "2022-05-17",
+      "tgl_selesai": "2022-05-28",
+      "nota": "",
+      "absen": "",
+      "materi": "",
+      "dokumentasi": "",
+      "status": "",
+      "file": ""
     },
     {
-      "id": "1a7d115b-7f03-44c1-ae3c-bc2811121d61",
-      "nomor": "13/pim/2020",
-      "nama": "sertifikat kepemimpinan",
-      "update": "2022-05-17",
-      "lihat": "C:\\fakepath\\Pay Slip.pdf"
-    },
+      "id": "abb88b5e-c3e9-4210-a245-82726822e91a",
+      "nama": "Workshop Kepegawaian",
+      "penyelenggara": "Lapas Binjai",
+      "jp": "2",
+      "narasumber": "Ibu Sri",
+      "tempat": "Aula Lapas Binjai",
+      "tgl_mulai": "2022-05-30",
+      "tgl_selesai": "2022-05-30",
+      "nota": "C:\\fakepath\\Pay Slip April.pdf",
+      "absen": "C:\\fakepath\\Pay Slip April.pdf",
+      "materi": "C:\\fakepath\\Pay Slip April.pdf",
+      "dokumentasi": "C:\\fakepath\\Pay Slip April.pdf",
+      "status": "",
+      "file": ""
+    }
+  ],
+  "data_pengajuan": [
     {
-      "id": "53db2807-767a-4b32-bda1-d9af742bba0d",
-      "nomor": "011111694586372",
-      "nama": "Ahli Pengadaan Nasional",
-      "update": "2022-05-17",
-      "lihat": "C:\\fakepath\\Sertifikat.pdf"
+      "id": "2f3d70a1-f69f-44c6-a564-1ed07a4d80ca",
+      "nama": "Diklat Kepegawaian",
+      "penyelenggara": "BKN",
+      "jp": "8",
+      "narasumber": "Ibu Sri",
+      "tempat": "Zoom",
+      "tgl_mulai": "2022-05-27",
+      "tgl_selesai": "2022-05-30",
+      "nota": "",
+      "peserta": "",
+      "materi": "",
+      "status": ""
     }
   ]
 }
