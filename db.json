@@ -1,35 +1,121 @@
 {
-  "data_kompetensi": [
+  "data_pencatatan": [
     {
-      "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033",
-      "nama": "Hilda Ayu Tamara",
-      "nip": "123456",
+      "nama": "Hilda Tamara",
+      "nip": "199706192022032006",
       "kompetensi": "Diklat Keuangan",
       "tgl_mulai": "2022-05-17",
       "tgl_selesai": "2022-05-24",
-      "jp": "2",
-      "sebagai": "peserta",
+      "jp": "3",
+      "sebagai": "Peserta",
       "penyelenggara": "Kemenkeu",
-      "narasumber": "Ibu...",
+      "narasumber": "Ibu Sri",
       "tempat": "Medan",
-      "serifikat": ""
+      "kategori": "Keuangan",
+      "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033"
     },
     {
-      "id": "94276d70-d3fa-4012-9ee5-46fe1322aa47",
+      "id": "b52fdc03-53ce-425f-9076-dd606589ac6c",
       "nama": "Renanda",
+      "nip": "200012222022032003",
+      "kompetensi": "Diklat Kepegawaian",
+      "kategori": "Kepegawaian",
+      "tgl_mulai": "2022-06-05",
+      "tgl_selesai": "2022-06-30",
+      "jp": "16",
+      "sebagai": "Peserta",
+      "penyelenggara": "BKN",
+      "narasumber": "Ibu Sri",
+      "tempat": "Medan",
+      "sertifikat": ""
+    },
+    {
+      "nama": "Ulfa",
       "nip": "199912222022032003",
-      "kompetensi": "Seminar Keuangan",
-      "tgl_mulai": "2022-05-28",
-      "tgl_selesai": "2022-05-28",
-      "jp": "2",
+      "kompetensi": "Seminar IT",
+      "tgl_mulai": "2022-06-05",
+      "tgl_selesai": "2022-06-06",
+      "jp": "4",
       "sebagai": "Peserta",
       "penyelenggara": "Kemenkeu",
       "narasumber": "Ibu Sri",
       "tempat": "Zoom",
-      "sertifikat": "C:\\fakepath\\Pay Slip April.pdf"
+      "sertifikat": "",
+      "kategori": "Teknologi Informasi",
+      "id": "a6a919d9-8f7c-485e-ac4a-d5a57c8878e8"
     }
   ],
-  "data_sertifikat": [
+  "data_pelaksanaan": [
+    {
+      "nama": "Diklat Kepegawaian",
+      "penyelenggara": "BKN",
+      "jp": "8",
+      "narasumber": "Ibu Sri",
+      "tempat": "Zoom",
+      "tgl_mulai": "2022-05-27",
+      "tgl_selesai": "2022-05-30",
+      "nota": "",
+      "peserta": "",
+      "materi": "",
+      "status": "Ditolak",
+      "id": "2f3d70a1-f69f-44c6-a564-1ed07a4d80ca"
+    },
+    {
+      "nama": "Seminar IT",
+      "penyelenggara": "Lapas Binjai",
+      "jp": "3",
+      "narasumber": "Ibu Sri",
+      "tempat": "Aula Lapas Binjai",
+      "tgl_mulai": "2022-06-04",
+      "tgl_selesai": "2022-06-04",
+      "nota": "",
+      "peserta": "",
+      "materi": "",
+      "status": "Diterima",
+      "id": "ee7e9840-3f85-4c2a-a520-335e8a1aa2e4"
+    },
+    {
+      "nama": "Diklat kepemimpinan",
+      "penyelenggara": "BPSDM",
+      "jp": "16",
+      "narasumber": "Ibu Sri",
+      "tempat": "Zoom",
+      "tgl_mulai": "2022-06-04",
+      "tgl_selesai": "2022-06-25",
+      "nota": "",
+      "peserta": "",
+      "materi": "",
+      "status": "Ditolak",
+      "id": "c0844659-b49a-4edc-b87d-129b38a8c9e4"
+    }
+  ],
+  "data_usulan": [
+    {
+      "nama": "Diklat Kepegawaian",
+      "penyelenggara": "BKN",
+      "jp": "10",
+      "narasumber": "Ibu Sri",
+      "tempat": "Zoom",
+      "tgl_mulai": "2022-05-27",
+      "tgl_selesai": "2022-05-30",
+      "nota": "",
+      "peserta": "",
+      "id": "2f3d70a1-f69f-44c6-a564-1ed07a4d80ca"
+    },
+    {
+      "id": "3f2cdda0-8146-462a-9b30-c39bb01ff182",
+      "nama": "Diklat kepemimpinan",
+      "penyelenggara": "BPSDM",
+      "jp": "16",
+      "narasumber": "Ibu Sri",
+      "tempat": "Jakarta",
+      "tgl_mulai": "2022-06-04",
+      "tgl_selesai": "2022-06-25",
+      "nota": "",
+      "peserta": ""
+    }
+  ],
+  "data_hasil": [
     {
       "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033",
       "nama": "Diklat Kepegawaian",
@@ -47,36 +133,20 @@
       "file": ""
     },
     {
-      "id": "abb88b5e-c3e9-4210-a245-82726822e91a",
-      "nama": "Workshop Kepegawaian",
-      "penyelenggara": "Lapas Binjai",
+      "id": "913e7917-47fd-49b5-9fac-f79a23839954",
+      "nama": "Seminar IT",
+      "penyelenggara": "Kominfo",
       "jp": "2",
       "narasumber": "Ibu Sri",
-      "tempat": "Aula Lapas Binjai",
-      "tgl_mulai": "2022-05-30",
-      "tgl_selesai": "2022-05-30",
-      "nota": "C:\\fakepath\\Pay Slip April.pdf",
-      "absen": "C:\\fakepath\\Pay Slip April.pdf",
-      "materi": "C:\\fakepath\\Pay Slip April.pdf",
-      "dokumentasi": "C:\\fakepath\\Pay Slip April.pdf",
-      "status": "",
-      "file": ""
-    }
-  ],
-  "data_pengajuan": [
-    {
-      "id": "2f3d70a1-f69f-44c6-a564-1ed07a4d80ca",
-      "nama": "Diklat Kepegawaian",
-      "penyelenggara": "BKN",
-      "jp": "8",
-      "narasumber": "Ibu Sri",
       "tempat": "Zoom",
-      "tgl_mulai": "2022-05-27",
-      "tgl_selesai": "2022-05-30",
+      "tgl_mulai": "2022-06-04",
+      "tgl_selesai": "2022-06-04",
       "nota": "",
-      "peserta": "",
+      "absen": "",
       "materi": "",
-      "status": ""
+      "dokumentasi": "",
+      "status": "Diproses",
+      "file": ""
     }
   ]
 }
