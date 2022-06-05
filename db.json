@@ -1,48 +1,19 @@
 {
   "data_pencatatan": [
     {
-      "nama": "Hilda Tamara",
-      "nip": "199706192022032006",
-      "kompetensi": "Diklat Keuangan",
-      "tgl_mulai": "2022-05-17",
-      "tgl_selesai": "2022-05-24",
-      "jp": "3",
-      "sebagai": "Peserta",
-      "penyelenggara": "Kemenkeu",
-      "narasumber": "Ibu Sri",
-      "tempat": "Medan",
-      "kategori": "Keuangan",
-      "id": "349e7eaa-0edd-4e56-8fb4-6dd9767e8033"
-    },
-    {
-      "id": "b52fdc03-53ce-425f-9076-dd606589ac6c",
+      "id": "9288df7d-96db-4c0a-a803-a30e96c4f3aa",
       "nama": "Renanda",
       "nip": "200012222022032003",
       "kompetensi": "Diklat Kepegawaian",
       "kategori": "Kepegawaian",
       "tgl_mulai": "2022-06-05",
-      "tgl_selesai": "2022-06-30",
+      "tgl_selesai": "2022-06-25",
       "jp": "16",
       "sebagai": "Peserta",
       "penyelenggara": "BKN",
       "narasumber": "Ibu Sri",
       "tempat": "Medan",
       "sertifikat": ""
-    },
-    {
-      "nama": "Ulfa",
-      "nip": "199912222022032003",
-      "kompetensi": "Seminar IT",
-      "tgl_mulai": "2022-06-05",
-      "tgl_selesai": "2022-06-06",
-      "jp": "4",
-      "sebagai": "Peserta",
-      "penyelenggara": "Kemenkeu",
-      "narasumber": "Ibu Sri",
-      "tempat": "Zoom",
-      "sertifikat": "",
-      "kategori": "Teknologi Informasi",
-      "id": "a6a919d9-8f7c-485e-ac4a-d5a57c8878e8"
     }
   ],
   "data_pelaksanaan": [
@@ -147,6 +118,18 @@
       "dokumentasi": "",
       "status": "Diproses",
       "file": ""
+    }
+  ],
+  "data_user": [
+    {
+      "username": "hildaayu",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "username": "kanwilsumut",
+      "password": "12345",
+      "role": "superadmin"
     }
   ]
 }
