@@ -4,6 +4,7 @@
       "id": "9288df7d-96db-4c0a-a803-a30e96c4f3aa",
       "nama": "Renanda",
       "nip": "200012222022032003",
+      "satker": "Kanwil Kemenkumham Sumut",
       "kompetensi": "Diklat Kepegawaian",
       "kategori": "Kepegawaian",
       "tgl_mulai": "2022-06-05",
@@ -13,66 +14,6 @@
       "penyelenggara": "BKN",
       "narasumber": "Ibu Sri",
       "tempat": "Medan",
-      "sertifikat": ""
-    },
-    {
-      "id": "35cf9dbe-ca76-4672-8bdc-ab52ee34764f",
-      "nama": "Ulfa",
-      "nip": "",
-      "kompetensi": "",
-      "kategori": "",
-      "tgl_mulai": "",
-      "tgl_selesai": "",
-      "jp": "",
-      "sebagai": "",
-      "penyelenggara": "",
-      "narasumber": "",
-      "tempat": "",
-      "sertifikat": ""
-    },
-    {
-      "id": "11d14859-87ac-4ab1-b209-3e0ddf1018c5",
-      "nama": "Maudina",
-      "nip": "",
-      "kompetensi": "",
-      "kategori": "",
-      "tgl_mulai": "",
-      "tgl_selesai": "",
-      "jp": "",
-      "sebagai": "",
-      "penyelenggara": "",
-      "narasumber": "",
-      "tempat": "",
-      "sertifikat": ""
-    },
-    {
-      "id": "dce2a141-a05d-4b47-be1d-f2faad820359",
-      "nama": "Anggi",
-      "nip": "",
-      "kompetensi": "",
-      "kategori": "",
-      "tgl_mulai": "",
-      "tgl_selesai": "",
-      "jp": "",
-      "sebagai": "",
-      "penyelenggara": "",
-      "narasumber": "",
-      "tempat": "",
-      "sertifikat": ""
-    },
-    {
-      "id": "7e8ed3d1-bb45-49e8-97b7-1bf56f30c419",
-      "nama": "Ayu",
-      "nip": "",
-      "kompetensi": "",
-      "kategori": "",
-      "tgl_mulai": "",
-      "tgl_selesai": "",
-      "jp": "",
-      "sebagai": "",
-      "penyelenggara": "",
-      "narasumber": "",
-      "tempat": "",
       "sertifikat": ""
     }
   ],
@@ -89,23 +30,9 @@
       "nota": "",
       "peserta": "",
       "materi": "",
+      "satker": "Kanwil Kemenkumham Sumut",
       "status": "Diproses",
       "id": "2f3d70a1-f69f-44c6-a564-1ed07a4d80ca"
-    },
-    {
-      "nama": "Seminar IT",
-      "penyelenggara": "Kominfo",
-      "jp": "2",
-      "narasumber": "Ibu Sri",
-      "tempat": "Zoom",
-      "tgl_mulai": "2022-06-25",
-      "tgl_selesai": "2022-07-25",
-      "biaya": "BPSDM",
-      "nota": "",
-      "peserta": "",
-      "materi": "",
-      "status": "Ditolak",
-      "id": "e3c2a5d3-ebe1-4602-a02f-9b819d2a486f"
     }
   ],
   "data_usulan": [
@@ -119,7 +46,8 @@
       "tgl_mulai": "2022-06-04",
       "tgl_selesai": "2022-06-25",
       "nota": "",
-      "peserta": ""
+      "peserta": "",
+      "satker": "Kanwil Kemenkumham Sumut"
     }
   ],
   "data_hasil": [
@@ -136,38 +64,7 @@
       "absen": "",
       "materi": "",
       "dokumentasi": "",
-      "status": "Diproses",
-      "file": ""
-    },
-    {
-      "id": "1f3db024-b6e2-4137-b9f1-0a077fb92785",
-      "nama": "Diklat kepemimpinan",
-      "penyelenggara": "BPSDM",
-      "jp": "10",
-      "narasumber": "Ibu Sri",
-      "tempat": "Medan",
-      "tgl_mulai": "2022-06-06",
-      "tgl_selesai": "2022-06-30",
-      "nota": "",
-      "absen": "",
-      "materi": "",
-      "dokumentasi": "",
-      "status": "Diproses",
-      "file": ""
-    },
-    {
-      "id": "fc402223-38ce-45d2-8f0a-150e3ee51fe7",
-      "nama": "Diklat Penyuluh Hukum",
-      "penyelenggara": "Kemenkumham",
-      "jp": "16",
-      "narasumber": "Ibu Sri",
-      "tempat": "Jakarta",
-      "tgl_mulai": "2022-06-06",
-      "tgl_selesai": "2022-06-30",
-      "nota": "",
-      "absen": "",
-      "materi": "",
-      "dokumentasi": "",
+      "satker": "Kanwil Kemenkumham Sumut",
       "status": "Diproses",
       "file": ""
     }
